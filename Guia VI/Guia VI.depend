@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664465489 source:d:\utn\programacion ii\guia vi\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1664469630 d:\utn\programacion ii\guia vi\listas.h
+
+1664483632 source:d:\utn\programacion ii\guia vi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660822653 source:d:\programacion ii\guia i\guia i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

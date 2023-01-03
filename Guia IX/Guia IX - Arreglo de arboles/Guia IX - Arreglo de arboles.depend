@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668024925 source:d:\utn\programacion ii\guia ix\guia ix - arreglo de arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

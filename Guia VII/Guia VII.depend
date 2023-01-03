@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666097509 source:d:\utn\programacion ii\guia vii\arboles.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+
+1666097480 d:\utn\programacion ii\guia vii\arboles.h
+
+1666826681 source:d:\utn\programacion ii\guia vii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667389633 source:d:\utn\programacion ii\guia viii\ec - arreglo de listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
